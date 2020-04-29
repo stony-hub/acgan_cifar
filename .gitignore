@@ -1,0 +1,5 @@
+.idea
+*.py[cod]
+data
+model
+results
